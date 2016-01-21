@@ -1,0 +1,33 @@
+naruto.gui.options.title=Menu Options Naruto
+naruto.gui.done=Terminé
+naruto.gui.firstPerson=Première Personne
+naruto.gui.on=Marche
+naruto.gui.off=Arrêt
+naruto.gui.jutsutoggle=Jutsu
+naruto.gui.chakraGUIOffset=Offset
+naruto.gui.generalOptions=Options Generiques
+naruto.gui.chakraGui=Chakra GUI
+naruto.gui.chakraGUICorner=GUI Coin
+naruto.gui.jutsuSettings=Reglages de Jutsu
+naruto.gui.jutsuDelay=Retard(ticks)
+
+naruto.gui.chakraColour=Couleure de Chakra
+
+naruto.gui.clan.title=Selection du Clan
+naruto.gui.clan.select=Choisir
+
+
+item.Kunai.name=Kunai
+item.Shuriken.name=Shuriken
+
+item.record_FightingSpirit.name=Disque Musique
+
+item.record_NejiTheme.name=Disque Musique
+
+item.copper_ryo.name=Kan 
+item.silver_ryo.name=Rin 
+item.gold_ryo.name=Ryo 
+
+item.Katana.name=Katana
+
+item.ExplosiveTag.name=Étiquette Explosive
